@@ -1,0 +1,33 @@
+.navbar-pf {
+    border-top: none;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #333;
+}
+
+.navbar-pf .navbar-header {
+    border-bottom: 1px solid #1abc9c;
+}
+
+.navbar-pf .navbar-utility > li > a {
+    color: #000 !important;
+    text-transform: uppercase;
+}
+
+.navbar-pf .navbar-utility > li > a:hover {
+    color: #000 !important;
+    background: none;
+    text-decoration: underline;
+}
+
+.navbar-title {
+    background: url('../img/logo.png') no-repeat;
+    height: 28px;
+    width: 100px;
+}
+
+.bs-sidebar ul li.active a {
+    background-color: #66D8C2;
+    border-color: #1abc9c;
+}

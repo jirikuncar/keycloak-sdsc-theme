@@ -3,6 +3,9 @@
         {
             "name": "sdsc",
             "types": [
+                "account",
+                "admin",
+                "welcome",
                 "login"
             ]
         }
